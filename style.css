@@ -1,0 +1,55 @@
+body {
+	margin:0;
+	padding:0;
+	background:#e4e4e6;
+	text-align:center;
+}
+div.clear {
+	clear:both;
+}
+#header {
+	
+}
+#header h1 {
+	margin:40px 0;
+	padding:0;
+	font-family:"Edwardian Script ITC";
+	font-size:350%;
+	color:#fff;
+}
+#main {
+	background:#fff;
+	
+}
+#main table {
+	width:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	border-collapse:collapse;
+	table-layout:fixed;
+}
+#main table tr {
+	margin:0;
+	padding:0;
+	border:0;
+}
+#main table tr td {
+	margin:0;
+	padding:0;
+	height:3px;
+	border:1px solid #e4e4e6;
+	font-size:70%;
+}
+#main table tr td img {
+	margin:0;
+	padding:0;
+	border:0;
+	width:100%;
+}
+#footer {
+
+}
+#footer p {
+	color:#fff;
+}
